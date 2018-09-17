@@ -1,1 +1,1 @@
-SHOW DATABASE;
+different word
